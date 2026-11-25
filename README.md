@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tuition.com EdTech Platform
 
 Tuition.com is a Django 4.2 educational marketplace for students and teachers.
@@ -67,3 +68,6 @@ python manage.py test config.edtech.tests
 - Django admin management
 - Fictional demo data command
 - Responsive premium light/dark theme
+=======
+# edtech
+>>>>>>> 39340a65b566f4e78bbaad311baf2b643a80412d
